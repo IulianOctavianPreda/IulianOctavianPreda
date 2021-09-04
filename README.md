@@ -11,7 +11,7 @@ Sorted by category:
 - Types: 
   - [Typescript Types](https://github.com/tstypes) - Hosts Types for various specifications or javascript libraries.
 - Benchmarks:
-  -[IP-Benchmarks](https://github.com/IP-Benchmarks) - Hosts various benchmarks, e.g Webassembly vs Javascript
+  - [IP-Benchmarks](https://github.com/IP-Benchmarks) - Hosts various benchmarks, e.g Webassembly vs Javascript
 - Pet Projects:
   - [IP-Projects](https://github.com/IP-Projects) - Hosts various projects and technology tryouts 
  
