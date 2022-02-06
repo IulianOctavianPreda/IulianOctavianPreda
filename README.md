@@ -2,6 +2,8 @@
 
 This is my main profile where I host most of my most important projects. You can also find interesting open-source software and code in my organizations:
 Sorted by category:
+- Libraries for JS/Ts
+  - [Open Source Web](https://github.com/ip-OpenSourceWeb)
 - Browser tools, themes and extensions:
   - [Web Extension Tools](https://github.com/wbet) - Hosts various tools created to assists creation, improvement, maintenance of browser extensions.
   - [IP-BrowserExtensions](https://github.com/IP-BrowserExtensions) - Hosts the source code for various browsers extensions I created along the way.
